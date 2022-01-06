@@ -1,0 +1,151 @@
+body {
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: dotted none none;
+  opacity: 0.4;
+  border-color: #345B63;
+  border-width: 6px;
+  width: 4%;
+  margin: auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.horizontal-line {
+  margin-top: 50px;
+}
+
+.collab {
+  padding-bottom: 20px;
+}
+
+.btn {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  padding: 7px;
+  text-decoration: none;
+  border-radius: 8px;
+  background: #11999e;
+}
+
+.btn:hover {
+  color: #D4ECDD;
+  background: #152D35;
+
+}
+
+.footer-link {
+  font-family: 'Montserrat', sans-serif;
+  color: #D4ECDD;
+  opacity: 0.5;
+  text-decoration: none;
+}
+
+.top-container {
+  background-color: #D4ECDD;
+  padding-top: 100px;
+  position: relative;
+}
+
+.bottom-container {
+  margin-top: 50px;
+  padding-top: 30px;
+  background-color: #152D35;
+}
+
+.intro {
+  width: 40%;
+  margin: auto;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  bottom: 300px;
+  left: 250px;
+  position: absolute;
+}
+
+.boy-pic {
+  padding-top: 40px;
+  width: 15%;
+}
+
+.avengers-pic {
+  margin-left: 30px;
+  width: 25%;
+  float: right;
+}
+
+.coding-pic {
+  margin-right: 30px;
+  width: 25%;
+  float: left;
+}
+
+.skill-row {
+  width: 50%;
+  /* 50% width of the webpage */
+  margin: 100px auto 50px auto;
+  /* centers div */
+  text-align: left;
+}
+
+.linkedin {
+  margin-right: 20px;
+}
+
+.github {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.twitter {
+  margin-left: 20px;
+}
+
+.link-logo {
+  width: 1.06rem;
+  height: 1.06rem;
+  padding-right: 0.32rem;
+}
+
+.andres-baeza {
+  padding-top: 20px;
+  color: white;
+  font-size: 0.7rem;
+  margin-bottom: 0;
+  padding-bottom: 20px;
+  opacity: 0.5;
+}
